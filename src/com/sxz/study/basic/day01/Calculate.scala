@@ -1,4 +1,4 @@
-package com.sxz.study.basic
+package com.sxz.study.basic.day01
 
 object Calculate {
 
